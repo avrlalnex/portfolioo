@@ -9,7 +9,7 @@ function Intro() {
             </h1>
             <p className='text-base md:text-cl mb-3 font-medium'>
                 <Typewriter
-                    words={['Passionate about Web Development', 'Enthusiastic about UI/UX Design', 'Lifelong Learner']}
+                    words={['Web Development', 'UI/UX Design', 'Tech Enthusiast']}
                     loop={0}
                     cursor
                     cursorStyle='|'
