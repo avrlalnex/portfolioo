@@ -42,17 +42,10 @@ function Intro() {
                         className='w-10 h-10'
                     />
                 </a>
-                <a
-                    href='/resume.pdf'
-                    download
-                    title="Download Resume"
-                >
-                    <img
-                        src="https://img.icons8.com/clouds/100/download.png"
-                        alt="Download Resume"
-                        className="w-10 h-10"
-                    />
+                <a href="/resume.pdf" download="Avril-Lalaine-Resume.pdf">
+                    <img src="https://img.icons8.com/clouds/100/download.png" alt="Download Resume" className="w-10 h-10"/>
                 </a>
+
             </div>
 
            {/* Scroll Down Notifier */}
