@@ -18,10 +18,7 @@ function About() {
 
       <div className="space-y-20">
         <div className="flex flex-col md:flex-row items-center gap-10">
-          <div
-            className="w-full md:w-1/2"
-            data-aos="fade-right"
-          >
+          <div className="w-full md:w-1/2" data-aos="fade-right">
             <img
               src="/assets/grad.jpg"
               alt="About Me"
@@ -48,10 +45,7 @@ function About() {
         </div>
 
         <div className="flex flex-col md:flex-row-reverse items-center gap-10">
-          <div
-            className="w-full md:w-1/2"
-            data-aos="fade-left"
-          >
+          <div className="w-full md:w-1/2" data-aos="fade-left">
             <img
               src="/assets/dance.jpg"
               alt="Dance Journey"
@@ -107,7 +101,7 @@ function About() {
           >
             <p className="mb-4">
               🎮 Aside from coding and dancing, I also enjoy{" "}
-              <span className="font-semibold">gaming</span> , especially calming
+              <span className="font-semibold">gaming</span>, especially calming
               games that help me relax and recharge.
             </p>
             <p className="mb-4">
