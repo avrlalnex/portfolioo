@@ -4,28 +4,28 @@ import React, { useState, useEffect } from "react";
 const experiences = [
   { 
     id: 1, 
-    img: "/assets/ssc.jpg", 
+    img: "/portfolioo/assets/ssc.jpg", 
     title: "SSC President", 
     text: "Served as SSC President in high school, leading student programs and school initiatives while honing leadership and teamwork skills.", 
     year: "2019 - 2020"
   },
   { 
     id: 2, 
-    img: "/assets/sec.jpg", 
+    img: "/portfolioo/assets/sec.jpg", 
     title: "Secretary General of Ciphers", 
     text: "Managed schedules, performances, and team coordination to keep the dance crew active and recognized.", 
     year: "2023 - 2025"
   },
   { 
     id: 3, 
-    img: "/assets/ojt.jpg", 
+    img: "/portfolioo/assets/ojt.jpg", 
     title: "Frontend Developer Intern at Infosoft", 
     text: "Built and improved user interfaces, applied classroom knowledge, and collaborated with a dev team.", 
     year: "June 2024 - July 2024"
   },
   { 
     id: 4, 
-    img: "/assets/scholar.jpg", 
+    img: "/portfolioo/assets/scholar.jpg", 
     title: "Ateneo de Davao University Scholar", 
     text: "Maintained high academic performance while balancing scholarship duties and personal growth.", 
     year: "2021 - 2025"
