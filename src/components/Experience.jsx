@@ -36,7 +36,6 @@ function Experience() {
   const [current, setCurrent] = useState(0);
   const [paused, setPaused] = useState(false);
 
-  // Auto-cycle every 1.5s unless paused
   useEffect(() => {
     if (paused) return;
     const interval = setInterval(() => {
@@ -87,15 +86,12 @@ function Experience() {
               alt={exp.title}
               className="rounded-xl mb-4 shadow-md w-full h-[250px] object-cover"
             />
-            {/* Title */}
             <h3 className="text-lg font-bold text-center">
               {exp.title}
             </h3>
-            {/* Explanation slightly lower than title */}
             <p className="text-sm italic leading-relaxed text-center mt-6 mb-4">
               {exp.text}
             </p>
-            {/* Year stays at the bottom */}
             <span className="text-xs text-gray-500 dark:text-gray-400 italic">
               {exp.year}
             </span>

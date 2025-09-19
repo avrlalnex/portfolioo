@@ -17,7 +17,6 @@ function About() {
       </h2>
 
       <div className="space-y-20">
-        {/* Row 1 - Intro */}
         <div className="flex flex-col md:flex-row items-center gap-10">
           <div
             className="w-full md:w-1/2"
@@ -48,7 +47,6 @@ function About() {
           </div>
         </div>
 
-        {/* Row 2 - Dance Journey */}
         <div className="flex flex-col md:flex-row-reverse items-center gap-10">
           <div
             className="w-full md:w-1/2"
@@ -87,7 +85,6 @@ function About() {
           </div>
         </div>
 
-        {/* Row 3 - Hobbies */}
         <div className="flex flex-col md:flex-row items-center gap-10">
           <div
             className="w-full md:w-1/2 grid grid-cols-2 gap-4"
@@ -126,7 +123,6 @@ function About() {
           </div>
         </div>
 
-        {/* Row 4 - Collecting Figurines */}
         <div className="flex flex-col md:flex-row-reverse items-center gap-10">
           <div
             className="w-full md:w-1/2 grid grid-cols-2 gap-4"

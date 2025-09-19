@@ -4,7 +4,7 @@ import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 import Intro from "./components/Intro";
 import About from "./components/About";
-import Experience from "./components/Experience"; // ✅ new import
+import Experience from "./components/Experience"; // 
 import Portfolio from "./components/Portfolio";
 import Prototypes from "./components/Prototypes";
 
@@ -78,7 +78,7 @@ function App() {
         <div className="max-w-6xl w-11/12 mx-auto">
           <Intro id="intro" active={activeSection === "intro"} />
           <About id="about" active={activeSection === "about"} />
-          <Experience id="experience" active={activeSection === "experience"} /> {/* ✅ added */}
+          <Experience id="experience" active={activeSection === "experience"} /> 
           <Portfolio id="portfolio" active={activeSection === "portfolio"} />
           <Prototypes id="prototypes" active={activeSection === "prototypes"} />
           <Contact id="contact" active={activeSection === "contact"} />
