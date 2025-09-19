@@ -20,7 +20,7 @@ function About() {
         <div className="flex flex-col md:flex-row items-center gap-10">
           <div className="w-full md:w-1/2" data-aos="fade-right">
             <img
-              src="/assets/grad.jpg"
+              src="/portfolioo/assets/grad.jpg"
               alt="About Me"
               className="w-full max-h-[400px] object-cover rounded-2xl shadow-lg transform transition duration-500 hover:scale-105"
             />
@@ -43,11 +43,10 @@ function About() {
             </p>
           </div>
         </div>
-
         <div className="flex flex-col md:flex-row-reverse items-center gap-10">
           <div className="w-full md:w-1/2" data-aos="fade-left">
             <img
-              src="/assets/dance.jpg"
+              src="/portfolioo/assets/dance.jpg"
               alt="Dance Journey"
               className="w-full max-h-[400px] object-cover rounded-2xl shadow-lg transform transition duration-500 hover:scale-105"
             />
@@ -85,12 +84,12 @@ function About() {
             data-aos="fade-right"
           >
             <img
-              src="/assets/taek.jpg"
+              src="/portfolioo/assets/taek.jpg"
               alt="Taekwondo"
               className="w-full h-[250px] object-cover rounded-2xl shadow-lg transform transition duration-500 hover:scale-105"
             />
             <img
-              src="/assets/motor.jpg"
+              src="/portfolioo/assets/motor.jpg"
               alt="Motocross"
               className="w-full h-[250px] object-cover rounded-2xl shadow-lg transform transition duration-500 hover:scale-105"
             />
@@ -123,12 +122,12 @@ function About() {
             data-aos="fade-left"
           >
             <img
-              src="/assets/genshin.jpg"
+              src="/portfolioo/assets/genshin.jpg"
               alt="Genshin Figurine"
               className="w-full h-[250px] object-cover rounded-2xl shadow-lg transform transition duration-500 hover:scale-105"
             />
             <img
-              src="/assets/one.jpg"
+              src="/portfolioo/assets/one.jpg"
               alt="Anime Figurine"
               className="w-full h-[250px] object-cover rounded-2xl shadow-lg transform transition duration-500 hover:scale-105"
             />
