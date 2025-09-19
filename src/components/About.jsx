@@ -23,7 +23,7 @@ function About() {
             data-aos="fade-right"
           >
             <img
-              src="./src/assets/grad.jpg"
+              src="/assets/grad.jpg"
               alt="About Me"
               className="w-full max-h-[400px] object-cover rounded-2xl shadow-lg transform transition duration-500 hover:scale-105"
             />
@@ -53,7 +53,7 @@ function About() {
             data-aos="fade-left"
           >
             <img
-              src="./src/assets/dance.jpg"
+              src="/assets/dance.jpg"
               alt="Dance Journey"
               className="w-full max-h-[400px] object-cover rounded-2xl shadow-lg transform transition duration-500 hover:scale-105"
             />
@@ -91,12 +91,12 @@ function About() {
             data-aos="fade-right"
           >
             <img
-              src="./src/assets/taek.jpg"
+              src="/assets/taek.jpg"
               alt="Taekwondo"
               className="w-full h-[250px] object-cover rounded-2xl shadow-lg transform transition duration-500 hover:scale-105"
             />
             <img
-              src="./src/assets/motor.jpg"
+              src="/assets/motor.jpg"
               alt="Motocross"
               className="w-full h-[250px] object-cover rounded-2xl shadow-lg transform transition duration-500 hover:scale-105"
             />
@@ -129,12 +129,12 @@ function About() {
             data-aos="fade-left"
           >
             <img
-              src="./src/assets/genshin.jpg"
+              src="/assets/genshin.jpg"
               alt="Genshin Figurine"
               className="w-full h-[250px] object-cover rounded-2xl shadow-lg transform transition duration-500 hover:scale-105"
             />
             <img
-              src="./src/assets/one.jpg"
+              src="/assets/one.jpg"
               alt="Anime Figurine"
               className="w-full h-[250px] object-cover rounded-2xl shadow-lg transform transition duration-500 hover:scale-105"
             />
