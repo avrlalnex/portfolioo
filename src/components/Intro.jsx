@@ -60,7 +60,7 @@ function Intro() {
       </div>
 
       <div className="absolute bottom-6 animate-bounce text-gray-600 dark:text-gray-300 text-sm md:text-base">
-  ↓ Scroll down to learn more about me ↓
+  ↓ Explore my portfolio and journey ↓
 </div>
     </section>
   );
